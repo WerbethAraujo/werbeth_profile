@@ -5,8 +5,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](werbeth1991pbs@gmail.com)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
-![Werbeth Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=werbeth91&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=werbeth91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Werbeth Araujo GitHub stats](https://github-readme-stats.vercel.app/api?username=WerbethAraujo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WerbethAraujo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no dia a dia
 
